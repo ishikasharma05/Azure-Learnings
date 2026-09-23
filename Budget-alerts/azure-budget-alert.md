@@ -29,7 +29,8 @@ Set up a monthly budget with alert thresholds so I get notified before I acciden
    - **Actual cost** @ 25% — flags real spend as it happens
    - **Forecasted cost** @ 100% — warns me *before* I'm projected to hit the limit, based on Azure's spend trend
 
-   ![Alert conditions](./screenshots/alert-conditions.png)
+  <img width="888" height="260" alt="image" src="https://github.com/user-attachments/assets/34ddfe72-f25a-4f4c-b7cd-e4ae4ccc2fdc" />
+
 
 7. **Alert recipients**
    Added my email under Alert recipients so notifications land directly in my inbox — no Action Group needed for a simple email alert (that's only required if you want automation, like auto-disabling a resource).
